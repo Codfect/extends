@@ -3,12 +3,6 @@ import { useState, useEffect } from 'react';
 
 import '../styles/repositories.scss';
 
-const repository = {
-  name: 'unform',
-  description: 'Forms React',
-  link: 'https://www.github.com'
-}
-
 /// https://api.github.com/users/codfect
 /// https://pokeapi.co/api/v2/pokemon/
 
